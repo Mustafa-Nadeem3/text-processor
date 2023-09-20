@@ -1,0 +1,56 @@
+Paragraph number: 1
+
+Sentences in Paragraph 1 are: 2
+
+Words in Paragraph 1 are: 9
+
+Words in Sentence 1 are : 5
+
+Words in Sentence 2 are : 4
+
+Characters in Word no 1 of Sentence no 1 : 2
+
+Characters in Word no 2 of Sentence no 1 : 4
+
+Characters in Word no 3 of Sentence no 1 : 2
+
+Characters in Word no 4 of Sentence no 1 : 7
+
+Characters in Word no 5 of Sentence no 1 : 6
+
+Characters in Word no 6 of Sentence no 2 : 1
+
+Characters in Word no 7 of Sentence no 2 : 4
+
+Characters in Word no 8 of Sentence no 2 : 2
+
+Characters in Word no 9 of Sentence no 2 : 6
+
+Paragraph number: 2
+
+Sentences in Paragraph 2 are: 2
+
+Words in Paragraph 2 are: 9
+
+Words in Sentence 1 are : 5
+
+Words in Sentence 2 are : 4
+
+Characters in Word no 1 of Sentence no 1 : 2
+
+Characters in Word no 2 of Sentence no 1 : 4
+
+Characters in Word no 3 of Sentence no 1 : 2
+
+Characters in Word no 4 of Sentence no 1 : 5
+
+Characters in Word no 5 of Sentence no 1 : 3
+
+Characters in Word no 6 of Sentence no 2 : 1
+
+Characters in Word no 7 of Sentence no 2 : 4
+
+Characters in Word no 8 of Sentence no 2 : 2
+
+Characters in Word no 9 of Sentence no 2 : 7
+
